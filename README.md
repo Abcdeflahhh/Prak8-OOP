@@ -6,12 +6,12 @@ NIM: 312410280
 
 Matkul: Bahasa Pemrograman
 
-# Tugas Praktikum
+# Praktikum
 
-![gambar](https://github.com/andreanbadeh/Lab-8/blob/6141c6755f7448e4dd928e0b84d74815edfd8df9/Images/Screenshot%202024-12-08%20075910.png)
+![gambar](https://github.com/Abcdeflahhh/Prak8-OOP/blob/50394f7d67bb960ecec17659fa9a4903299ea17d/folder/Screenshot%202024-12-08%20075910.png)
 
 # Lab81.py
-```
+
 class Mahasiswa:
     def __init__(self, nama, nilai):
         self.nama = nama
@@ -77,7 +77,7 @@ while True:
         break
     else:
         print("Pilihan tidak valid.")
-```
+
 # Code Penjelasan
 1. `DaftarNilaiMahasiswa` adalah kelas yang mengelola daftar mahasiswa. Kelas ini memiliki metode untuk menambah, mengubah, menghapus, dan menampilkan daftar nilai mahasiswa.
 2.  Method `tambah(self, nama, nilai)` Menambahkan data mahasiswa baru ke dalam daftar.
@@ -93,10 +93,10 @@ Mencetak menu dengan lima opsi yang dapat dipilih pengguna tersebut:
 4. Ubah data: Mengubah nilai mahasiswa berdasarkan nama
 5. Keluar: Keluar dari program
 
-Diagram Class Tersebut :
+Diagram Kelas Tersebut :
 
-![gambar](https://github.com/andreanbadeh/Lab-8/blob/d23adec296d1bd226c228ebba55416ebc5b01b21/Images/Screenshot%20from%202024-12-08%2020-29-58.png)
+![gambar](https://github.com/Abcdeflahhh/Prak8-OOP/blob/50394f7d67bb960ecec17659fa9a4903299ea17d/folder/Screenshot%20from%202024-12-08%2020-29-58.png)
 
-Dan Ini Flowchart : 
+Flowchart : 
 
-![gambar](https://github.com/andreanbadeh/Lab-8/blob/d23adec296d1bd226c228ebba55416ebc5b01b21/Images/flowchart_mahasiswa.png)
+![gambar](https://github.com/Abcdeflahhh/Prak8-OOP/blob/50394f7d67bb960ecec17659fa9a4903299ea17d/folder/flowchart_mahasiswa.png)
